@@ -1,0 +1,54 @@
+/*.headerImg {*/
+/*    background-image: url(../../img/headerImg.png);*/
+/*    background-repeat: repeat-x;*/
+/*    width: 100%;*/
+/*    height: 193px;*/
+/*    background-size: 198px;*/
+/*}*/
+
+/*.number{*/
+/*    !*position: absolute;*!*/
+/*    !*top: 15px;*!*/
+/*    !*right: 0;*!*/
+/*    !*display: flex;*!*/
+/*    !*flex-direction: column;*!*/
+/*    color: white;*/
+/*}*/
+/* .number a {*/
+/*     font-size: 20px;*/
+/*     font-weight: 400;*/
+/*     color: floralwhite;*/
+/*     margin-left: 7px;*/
+/* }*/
+
+/*.number a:hover{*/
+/*    text-decoration: none;*/
+/*    color: white;*/
+/*}*/
+
+/*.fa-home{*/
+/*    font-size: 35px;*/
+/*    cursor: pointer;*/
+/*    color: white;*/
+/*}*/
+
+/*.call-number{*/
+/*    margin-right: 100px;*/
+/*}*/
+
+
+/*.homePage{*/
+/*    justify-content: space-between;*/
+/*    display: flex;*/
+/*    margin: 45px;*/
+/*}*/
+/*.header-logo{*/
+/*    margin-right: 20px;*/
+/*    margin-bottom: 40px;*/
+/*    width: 100px;*/
+/*    height: 100px;*/
+/*}*/
+/*.fa-home:hover{*/
+/*    text-decoration: none;*/
+/*    color: palegoldenrod;*/
+/*}*/

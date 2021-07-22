@@ -1,0 +1,36 @@
+.good-container{
+    margin-top: 30px;
+}
+.catalog-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.good-image{
+    width: 280px;
+}
+
+.good-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    align-items: center;
+    padding-bottom: 25px;
+}
+
+.li-catalog-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 288px;
+    margin-right: 20px;
+}
+
+.li-catalog-item:hover {
+    border: 2px solid palegoldenrod;
+    border-radius: 8px;
+}
+

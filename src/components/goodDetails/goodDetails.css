@@ -1,0 +1,22 @@
+.breadSlider{
+    /*width: 40%;*/
+    text-align: center;
+    margin-left: 100px;
+}
+
+.features{
+    /*width: 50%;*/
+    background-color: #f2f2f247;
+    padding-left: 20px;
+}
+
+.itemBreads{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.featuresItem{
+    color: #ACACAC;
+}

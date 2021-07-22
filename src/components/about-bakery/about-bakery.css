@@ -1,0 +1,43 @@
+.payment {
+    background-color: #eae6e3;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.items {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+
+.fa-box-open, .fa-wallet,
+.fa-thumbs-up {
+    font-size: 50px;
+}
+
+.itemText {
+    margin-left: 10px;
+
+    font-size: 20px;
+}
+
+span{
+    font-size: 18px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.aboutBakery{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 100px;
+}

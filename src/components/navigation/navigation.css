@@ -1,0 +1,53 @@
+/*li:hover{*/
+/*    text-decoration: none;*/
+/*}*/
+li {
+    list-style: none;
+}
+
+.nav-li {
+    margin-right: 100px;
+    display: inline-block;
+}
+
+.navMenu {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-link {
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+}
+
+.menu-link:hover {
+    text-decoration: none;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    font-weight: lighter;
+}
+
+.menu-link {
+    font-size: 28px;
+}
+
+.menu-link::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    transition: width .3s;
+    background: black;
+}
+
+.menu-link:hover::after {
+    color: white;
+    width: 100%;
+    transition: width .3s;
+}
